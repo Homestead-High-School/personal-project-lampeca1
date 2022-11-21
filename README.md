@@ -1,5 +1,4 @@
-# Adv_Lab_Individual_Learning
+# AI Snake Game
 Final project for Advanced Programming
 
-Replace this with a daily detail of what you have learned/done.
-This detail should be well formatted, google how-to-create github wiki for more information
+This is the finished version of the AI Snake game. It utilized elements from TeachableMachines.com to create an ai that takes the direction you're looking at (Up/Down/Left/Right/None) and feed it into the inputs for the game of Snake.
